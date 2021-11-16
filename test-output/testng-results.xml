@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[loged in Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Product nokia entered]]>
+    </line>
+    <line>
+      <![CDATA[Saved the product]]>
+    </line>
+    <line>
+      <![CDATA[Searched for the product with alphabet button-'N']]>
+    </line>
+    <line>
+      <![CDATA[loged out and closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-11-15T17:32:34 IST" name="Suite" finished-at="2021-11-15T17:33:18 IST" duration-ms="43797">
+    <groups>
+      <group name="smokeTest">
+        <method signature="TC_14Test.searchbyClickingOnCharacter()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" name="searchbyClickingOnCharacter" class="com.VtigerProducts.TestCases.TC_14Test"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2021-11-15T17:32:34 IST" name="Test" finished-at="2021-11-15T17:33:18 IST" duration-ms="43797">
+      <class name="com.VtigerProducts.TestCases.TC_14Test">
+        <test-method is-config="true" signature="connectDatabase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:34 IST" name="connectDatabase" finished-at="2021-11-15T17:32:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectDatabase -->
+        <test-method is-config="true" signature="opentheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:34 IST" name="opentheBrowser" finished-at="2021-11-15T17:32:36 IST" duration-ms="2295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentheBrowser -->
+        <test-method is-config="true" signature="loginM()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:36 IST" name="loginM" finished-at="2021-11-15T17:32:45 IST" duration-ms="8807" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loged in Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginM -->
+        <test-method signature="searchbyClickingOnCharacter()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:45 IST" name="searchbyClickingOnCharacter" finished-at="2021-11-15T17:33:10 IST" duration-ms="25187" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[New Product nokia entered]]>
+            </line>
+            <line>
+              <![CDATA[Saved the product]]>
+            </line>
+            <line>
+              <![CDATA[Searched for the product with alphabet button-'N']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchbyClickingOnCharacter -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:10 IST" name="logout" finished-at="2021-11-15T17:33:16 IST" duration-ms="6243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closetheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:17 IST" name="closetheBrowser" finished-at="2021-11-15T17:33:18 IST" duration-ms="1199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loged out and closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closetheBrowser -->
+        <test-method is-config="true" signature="closeDataBase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:18 IST" name="closeDataBase" finished-at="2021-11-15T17:33:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDataBase -->
+      </class> <!-- com.VtigerProducts.TestCases.TC_14Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
