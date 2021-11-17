@@ -50,6 +50,7 @@ public class BaseClass {
 
 		Thread.sleep(4000);
 		WebElement logout = driver.findElement(By.xpath("//img[@src=\"themes/softed/images/user.PNG\"]"));
+		wUtil.waitForPageLoad(driver);
 		wUtil.mouseOver(driver, logout);
 		Thread.sleep(2000);
 	}

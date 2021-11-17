@@ -17,30 +17,30 @@
       <![CDATA[loged out and closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-11-15T17:32:34 IST" name="Suite" finished-at="2021-11-15T17:33:18 IST" duration-ms="43797">
+  <suite started-at="2021-11-17T10:37:14 IST" name="Suite" finished-at="2021-11-17T10:38:00 IST" duration-ms="46406">
     <groups>
       <group name="smokeTest">
         <method signature="TC_14Test.searchbyClickingOnCharacter()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" name="searchbyClickingOnCharacter" class="com.VtigerProducts.TestCases.TC_14Test"/>
       </group> <!-- smokeTest -->
     </groups>
-    <test started-at="2021-11-15T17:32:34 IST" name="Test" finished-at="2021-11-15T17:33:18 IST" duration-ms="43797">
+    <test started-at="2021-11-17T10:37:14 IST" name="Test" finished-at="2021-11-17T10:38:00 IST" duration-ms="46406">
       <class name="com.VtigerProducts.TestCases.TC_14Test">
-        <test-method is-config="true" signature="connectDatabase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:34 IST" name="connectDatabase" finished-at="2021-11-15T17:32:34 IST" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="connectDatabase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:14 IST" name="connectDatabase" finished-at="2021-11-17T10:37:14 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- connectDatabase -->
-        <test-method is-config="true" signature="opentheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:34 IST" name="opentheBrowser" finished-at="2021-11-15T17:32:36 IST" duration-ms="2295" status="PASS">
+        <test-method is-config="true" signature="opentheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:14 IST" name="opentheBrowser" finished-at="2021-11-17T10:37:18 IST" duration-ms="4040" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- opentheBrowser -->
-        <test-method is-config="true" signature="loginM()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:36 IST" name="loginM" finished-at="2021-11-15T17:32:45 IST" duration-ms="8807" status="PASS">
+        <test-method is-config="true" signature="loginM()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:18 IST" name="loginM" finished-at="2021-11-17T10:37:24 IST" duration-ms="6733" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[loged in Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginM -->
-        <test-method signature="searchbyClickingOnCharacter()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:32:45 IST" name="searchbyClickingOnCharacter" finished-at="2021-11-15T17:33:10 IST" duration-ms="25187" status="PASS">
+        <test-method signature="searchbyClickingOnCharacter()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:24 IST" name="searchbyClickingOnCharacter" finished-at="2021-11-17T10:37:52 IST" duration-ms="28075" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[New Product nokia entered]]>
@@ -53,18 +53,18 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchbyClickingOnCharacter -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:10 IST" name="logout" finished-at="2021-11-15T17:33:16 IST" duration-ms="6243" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:52 IST" name="logout" finished-at="2021-11-17T10:37:59 IST" duration-ms="6229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closetheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:17 IST" name="closetheBrowser" finished-at="2021-11-15T17:33:18 IST" duration-ms="1199" status="PASS">
+        <test-method is-config="true" signature="closetheBrowser()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:37:59 IST" name="closetheBrowser" finished-at="2021-11-17T10:38:00 IST" duration-ms="1261" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[loged out and closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- closetheBrowser -->
-        <test-method is-config="true" signature="closeDataBase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-15T17:33:18 IST" name="closeDataBase" finished-at="2021-11-15T17:33:18 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeDataBase()[pri:0, instance:com.VtigerProducts.TestCases.TC_14Test@505fc5a4]" started-at="2021-11-17T10:38:00 IST" name="closeDataBase" finished-at="2021-11-17T10:38:00 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDataBase -->
